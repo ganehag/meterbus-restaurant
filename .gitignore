@@ -1,0 +1,64 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+*.venv/
+env/
+.Python
+
+# Flask instance folders
+instance/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Spyder project files
+*.spyproject
+
+# PyCharm project files
+.idea/
+
+# Visual Studio Code project files
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+*.tmp
+
+# Distribution files
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Build directory
+build/
+
+# User-specific files
+*.sublime*
+*.iml
+
+# Test and coverage reports
+.coverage
+.coverage.*
+.tox/
+.pytest_cache/
+pytestdebug.log
+nosetests.xml
+coverage.xml
+htmlcov/
+
+# OS generated files
+.DS_Store
+*.thumbnails
+Thumbs.db
